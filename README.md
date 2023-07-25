@@ -15,7 +15,7 @@ Download the LYNC - NFT Fetcher SDK from here. Import the SDK .unitypackage file
 Once the NFT Fetcher SDK has finished importing into your Unity project, you can begin integrating it into your game. To do this, open the NFTFetcher scene provided by the LYNC NFT Fetcher SDK.
 
 ```
-                                         Path : Assets ->LYNC-NFT-Fetcher -> NFTFetcher Scene
+                      Path : Assets ->LYNC-NFT-Fetcher -> NFTFetcher Scene
 ```
 
 <img width="623" alt="Screenshot 2023-07-26 at 1 39 16 AM" src="https://github.com/LYNC-WORLD/LYNC-NFT-Fetcher/assets/42548654/712d03d2-67ca-41df-b33d-24530d935bd9">
