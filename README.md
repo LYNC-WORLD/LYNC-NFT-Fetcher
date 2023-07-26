@@ -36,3 +36,9 @@ If you want gamers to fetch their NFTs from the wallet address, mark "Show User 
 For testing in Unity Editor, Pass Wallet Address and NFTs will start showing.
 If you wish to see logs, enable Debug Logs as True (Mark Tick).
 
+
+## Fetch gamers NFTs from their wallet Address
+
+Integrate LYNC Metamask Wallet SDK https://github.com/LYNC-WORLD/Metamask-Unity-Wallet-SDK
+
+Once done, when you build on WebGL, it will fetch the gamer's NFTs from the specific wallet.
